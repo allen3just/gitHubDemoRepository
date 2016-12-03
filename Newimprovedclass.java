@@ -1,1 +1,2 @@
 newimproved function()
+	delete everything
