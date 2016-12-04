@@ -1,3 +1,4 @@
 newimproved function()
 
 	print something
+
